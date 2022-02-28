@@ -1,0 +1,2 @@
+adl-piano-midi: https://github.com/lucasnfe/adl-piano-midi
+GTZAN Dataset: https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification
